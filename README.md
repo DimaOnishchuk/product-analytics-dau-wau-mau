@@ -54,6 +54,24 @@ The analysis was completed in several stages:
 7. Analyzed the results to identify user engagement patterns and product stickiness.
 ---
 
+## 📈 Dashboard Preview
+
+### Daily Active Users
+
+![DAU Trend](screenshots/dau_trend.png)
+
+### Weekly Active Users
+
+![WAU Trend](screenshots/wau_trend.png)
+
+### Monthly Active Users
+
+![MAU Trend](screenshots/mau_trend.png)
+
+### Product Stickiness
+
+![Stickiness](screenshots/stickiness.png)
+
 ## 📈 Key Findings
 
 The analysis of user activity revealed several important patterns:
