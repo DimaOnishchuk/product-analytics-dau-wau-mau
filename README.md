@@ -1,2 +1,4 @@
 # product-analytics-dau-wau-mau
-Product analytics project in Google Sheets: DAU, WAU, MAU and Product Stickiness analysis
+# 📊 Product Activity Analysis using Google Sheets
+
+Analysis of user engagement metrics (DAU, WAU, MAU) and product stickiness for an e-commerce product.
