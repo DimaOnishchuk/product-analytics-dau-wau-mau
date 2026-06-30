@@ -5,7 +5,7 @@ Analysis of user engagement and product stickiness using DAU, WAU, and MAU metri
 ---
 ## 🔗 Live Workbook
 
-[Open the project in Google Sheets] (https://docs.google.com/spreadsheets/d/1kVXDS0DLoO0HpOCcLSzX4JYC1ncUn57ewwwBlXoGwko/edit?usp=sharing)
+[Open the project in Google Sheets]https://docs.google.com/spreadsheets/d/1kVXDS0DLoO0HpOCcLSzX4JYC1ncUn57ewwwBlXoGwko/edit?usp=sharing)
 
 ## 📌 Project Overview
 
